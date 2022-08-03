@@ -1,0 +1,17 @@
+.nav-image {
+  width: 40px;
+}
+.nav-image img {
+  width: 100%;
+}
+.logo-text {
+  color: white;
+  margin-left: 20px;
+}
+.logo-text h6 {
+  font-size: 30px;
+  font-weight: bold;
+}
+body {
+  background-color: #f3f1ff;
+}
